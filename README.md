@@ -8,8 +8,8 @@ This git repository contains the genetic information for Gino Cingolani Trucco e
 File Information
 ------------
 
-The text file consists of lines of your genotype call data (your A's, T's, C's and G's).
-The downloaded file is 5 MB to 30 MB in size.
+The text file consists of lines of my genotype call data (your A's, T's, C's and G's).
+The complete file is 5 MB to 30 MB in size.
 It can be opened in a text editor like SublimeText or Open Office Calc.
 
 
