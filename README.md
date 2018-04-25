@@ -2,7 +2,7 @@
 Introduction
 ------------
 
-This git repository contains the genetic information for Gino Cingolani Trucco extracted using the Illumina Infinium Global Screening Array-24 v1.0 Bead Chip (GSA) — a.k.a. 23andMe version 5 or v5 —
+This git repository contains the genetic information for Gino Cingolani Trucco extracted using the Illumina OmniExpress HD Beadchip — a.k.a. 23andMe version 4 or v4 —
 
 
 File Information
