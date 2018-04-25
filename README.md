@@ -1,4 +1,4 @@
-# opendna
+# Open DNA - Gino Cingolani Trucco
 Introduction
 ------------
 
